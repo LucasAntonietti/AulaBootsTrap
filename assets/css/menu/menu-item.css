@@ -1,0 +1,11 @@
+.menu_item{
+    list-style: none;
+}
+
+.menu_item_separador{
+    list-style: none;
+    padding: 1px;
+    margin-right: 20px;
+    margin-left: 15px;
+    background-color: #808080;
+}

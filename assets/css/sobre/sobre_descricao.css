@@ -1,0 +1,10 @@
+.sobre_descricao{
+    color: #000000;
+    font-weight: 30rem;
+    font-size: 2.5rem;
+    top: 37rem;
+    left: 28rem;
+    position: absolute;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: justify;
+}

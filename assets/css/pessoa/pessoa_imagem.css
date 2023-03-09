@@ -1,0 +1,21 @@
+.pessoa_imagem{
+    background-position: center; /*centraliza a imagem na div*/
+    background-repeat: no-repeat; /*só exibe o background uma vez na div*/
+    background-size: cover; /*o background ocupa todo o espaço da div*/
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+#pessoa_imagem_andreia{
+    background-image: url('../../img/pessoas/1580766880701-Scabby-the-Rat-is-After-Salt-Bae_JL.webp');
+}
+
+#pessoa_imagem_roberta{
+    background-image: url('../../img/pessoas/Trabalhando-para-uma-empresa-de-Educacao-Milena-sentiu-vontade-de-estudar-pedagogia.-FOTO-ACERVO-PESSOAL.jpeg');
+}
+
+#pessoa_imagem_marcela{
+    background-image: url('../../img/pessoas/ERICK-JACQUIN.jpg');
+}
